@@ -1,3 +1,7 @@
+forked from coffeehu/CBoard-v
+联系vue数据绑定的项目  自用请从源版获取代码
+
+
 # CBoard-v
 
 CBoard-v 是个人项目，目的是使用 Vue 2.0 重写 CBoard 的前端部分。
