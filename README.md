@@ -1,5 +1,5 @@
 forked from coffeehu/CBoard-v
-联系vue数据绑定的项目  自用请从源版获取代码
+练习vue数据绑定的项目  自用请从源版获取代码
 
 
 # CBoard-v
